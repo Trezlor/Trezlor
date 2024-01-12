@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- ⚡ Fun fact **I can solve the rubix cube.**
+- ⚡ Fun fact **I can solve the rubix cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
